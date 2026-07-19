@@ -36,14 +36,6 @@ http://192.168.4.1
 
 Select your Wi-Fi network, enter the password and press Connect.
 
-## Gallery
-
-(Add photos)
-
-## Demo Video
-
-(Add YouTube link)
-
 ## License
 
 MIT

@@ -40,6 +40,8 @@ http://192.168.4.1
 
 Select your Wi-Fi network, enter the password and press Connect.
 
+Prepare project for public release
+
 ## License
 
 MIT

@@ -2,6 +2,8 @@
 
 A faithful recreation of the classic Hungarian MTV1 television clock from the late 1980s using an ESP32 with PAL composite video output.
 
+![MTV1 Clock](images/cover.jpg)
+
 ## Features
 
 - PAL composite video

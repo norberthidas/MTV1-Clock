@@ -17,7 +17,7 @@ A faithful recreation of the classic Hungarian MTV1 television clock from the la
 - Automatic Wi-Fi scanning
 - No mobile app required
 
-- > **Tested with ESP32 Arduino Core 2.0.14**
+   **Tested with ESP32 Arduino Core 2.0.14**
 >
 > The project was developed and tested using ESP32 Arduino Core **2.0.14**. Compatibility with newer core versions is not guaranteed.
 
